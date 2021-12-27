@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @rociosickinger
-- 👀 I’m interested in ...  Aprender constantemente,
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in  la tecnologia, el arte y la musica.
+- 🌱 I’m currently learning
+-- 📫 How to reach me  rociosickinger@gmail.com
 
 <!---
 rociosickinger/rociosickinger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
