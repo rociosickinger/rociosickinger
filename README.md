@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rociosickinger
 - 👀 I’m interested in  la tecnologia, el arte y la musica.
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning python
 -- 📫 How to reach me  rociosickinger@gmail.com
 
 <!---
